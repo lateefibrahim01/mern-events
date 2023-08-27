@@ -42,7 +42,7 @@
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/lateefibrahim01/mern-events.git`
+1. Clone the repository: `git clone https://github.com/lateefibrahim01/mern-event-app.git`
 2. Navigate to the `server` directory: `cd server`
 3. Install server dependencies: `npm install`
 4. Navigate to the `client` directory: `cd client`
