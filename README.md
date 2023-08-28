@@ -84,4 +84,4 @@ Special thanks to the open-source community and the creators of the technologies
 This app was developed by Lateef Ibrahim as part of MERN Stack Apps.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact [latbra@gmail.com.com].
+If you have any questions or suggestions, please feel free to contact [latbra@gmail.com].
